@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+.banner {
+    color: #9C8B14;
+    -webkit-box-shadow: 0px 0px #070505;
+    box-shadow: 0px 0px #070505;
+    border: medium solid #D2A923;
+}
+.nav.home.services .body {
+    background-color: #E4D0B2;
+    color: #151313;
+    width: 600px;
+    height: 790px;
+    display: block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-top: 0px;
+    margin-left: 300px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: italic;
+    font-size: medium;
+    border-style: solid;
+    border-color: #D2A923;
+}
+.nav.home.services {
+    text-align: center;
+    color: #010000;
+    font-size: x-small;
+}
+blockquote blockquote h1 {
+    color: #C1A546;
+}

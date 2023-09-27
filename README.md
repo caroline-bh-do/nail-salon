@@ -1,2 +1,4 @@
-# nail-salon
-Bella Beach Nail Spa Website 
+# Nail-Salon
+Sally Nail Salon Website 
+
+
